@@ -1,6 +1,6 @@
-**Create Data visualization with amazon s3 and quicksight, working with a large dataset. **
+**Create Data visualization with amazon s3 and quicksight, working with a large dataset.**
 
-**Overview **
+**Overview**
 This project demonstrates how to visualize data stored in **Amazon S3** using **Amazon QuickSight**. 
 The dataset contains information about Amazon best-selling products, sourced from BrightData. 
 This project aims to teach hands-on skills in cloud-based data storage, analytics, and visualization, valuable for cloud engineers and data professionals.  
@@ -27,7 +27,7 @@ This project aims to teach hands-on skills in cloud-based data storage, analytic
 **Setup Instructions**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/EdwinaAbah06/amazon-best-selling-products.git
+   git clone https://github.com/EdwinaAbah06/visualize-data-with-amazon-quicksight.git
    ```  
 2. Navigate to the project directory:  
    ```bash or linux environment
